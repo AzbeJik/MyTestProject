@@ -15,6 +15,8 @@ Cassandra также можно сделать строго согласован
 1.	https://www.instaclustr.com/blog/cassandra-vs-mongodb/
 2.	https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
 3.	https://aphyr.com/posts/322-call-me-maybe-mongodb-stale-reads
+
+
 //MSSQL 
 
 MSSQL это реляционная БД в которой узлы не независимы друг от друга, репликация может быть только master – slave. То есть относиться к системе CA.
