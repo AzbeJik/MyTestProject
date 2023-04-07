@@ -1,1 +1,1 @@
-# MyTestProject
+# Practic OTUS
